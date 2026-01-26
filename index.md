@@ -124,7 +124,7 @@ We introduce the concept of randomization and its value for causal inference. We
 
 ##### Seminar: Causality and Randomization
 
-- [Seminar Paper](seminars/seminar1/seminar1_paper.pdf) 
+- [Seminar Paper](https://github.com/LSE-MY457/course_materials/blob/main/seminars/seminar1/seminar1_paper.pdf) 
 - [Seminar Questions](seminars/seminar1/seminar1_questions.pdf)
 - [Seminar Code](seminars/seminar1/seminar1_experiments.Rmd)
 
