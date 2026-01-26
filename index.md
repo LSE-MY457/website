@@ -120,7 +120,7 @@ We introduce the concept of randomization and its value for causal inference. We
 
 ##### Lecture
 
-- [Lecture Slides - Randomization](slides/L2_randomization.pdf)
+- [Lecture Slides - Randomization](https://github.com/LSE-MY457/course_materials/blob/main/slides/L2_randomization.pdf)
 
 ##### Seminar: Causality and Randomization
 
