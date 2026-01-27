@@ -36,9 +36,7 @@ _Note_: if you are particularly interested in graphical models and their applica
 
 ### Formative problem sets
 
-Statistics is best learned by doing. There will be five problem sets, released at 5pm on Mondays using GitHub Classrooms. You must submit one week later at 11am, by pushing your repo, including your completed work, to GitHub. 
-
-Your submission should be written in **RMarkdown**, and must be a **knitted .pdf**, formatted as shown in this [problem set template](psets/template/pset_template.Rmd), which produces a pdf that looks like [this](psets/template/pset_template.pdf). If you do not follow the formatting requirements your problem set will not be marked. Comments will be returned within two weeks of submission. 
+Statistics is best learned by doing. There will be five problem sets, released at 5pm on Mondays using GitHub Classrooms. You must submit one week later at 11am, by pushing your repo, including your completed work as a rendered .pdf, to GitHub. 
 
 |  |  Type | Release date | Due date  |
 |:--:|:-------:|:-----:|:-----|
