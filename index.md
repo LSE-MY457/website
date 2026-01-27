@@ -127,7 +127,7 @@ We introduce the concept of randomization and its value for causal inference. We
 - [Seminar Paper](https://github.com/LSE-MY457/course_materials/blob/main/seminars/seminar1/seminar1_paper.pdf) 
 - [Seminar Questions](seminars/seminar1/seminar1_questions.pdf)
 - [Code Demo Worksheet](https://github.com/LSE-MY457/course_materials/blob/main/code_demos/code_demo_experiments.Rmd)
-- [Code Demo Video]()
+- [Code Demo Video](https://youtu.be/RfE6tFrfvbA)
 
 ##### Readings
 * MHE: Chapter 2
