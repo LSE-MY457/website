@@ -133,12 +133,7 @@ We introduce the concept of randomization and its value for causal inference. We
 * TE: Chapters 7 & 8
 
 ##### Additional readings
-* CISAP: Chapter 3 OR CMRI: Chapters 3 & 4 
-
-##### Problem Set 1
-- [Problem Set](psets/pset1/pset1.pdf)
-- [Data](psets/pset1/how_to_elect_more_women.dta)
-- [Solution Set](psets/pset1/pset1_solutions.pdf)
+* CISAP: Chapter 3 OR CMRI: Chapters 3 & 4
 
 #### 3. Selection on Observables 1
 
@@ -146,7 +141,7 @@ We depart from the safe shores of controlled randomization, into the treacherous
 
 ##### Lecture
 
-- [Lecture Slides - Selection on Observables 1](slides/L3_soo_part1.pdf)
+- [Lecture Slides - Selection on Observables 1](https://github.com/LSE-MY457/course_materials/blob/main/slides/L3_soo_part1.pdf)
 
 ##### Readings
 * MHE: Chapter 3
