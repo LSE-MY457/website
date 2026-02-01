@@ -179,11 +179,6 @@ We consider the three most frequently seen estimation strategies for selection-o
 * [Abadie, A. & Imbens, G. (2006). Large Sample Properties of Matching Estimators for Average Treatment Effects. Econometrica.](https://doi.org/10.1111/j.1468-0262.2006.00655.x) (if you want to understand matching bias -- very technical)
 * [King, G. & Nielsen, R. (2019). Why Propensity Scores Should Not Be Used for Matching. Political Analysis.](https://doi.org/10.1017/pan.2019.11) (a critique of propensity score matching)
 
-##### Problem Set 2
-- [Problem Set](psets/pset2/pset2.pdf)
-- [Data](psets/pset2/dollars_on_the_sidewalk.dta)
-- [Solution Set](psets/pset2/pset2_solutions.pdf)
-
 #### 5. Selection on Observables 3
 
 We consider what happens if we are willing to weaken the assumptions underpinning our research designs, exploring partial identification and sensitivity analysis. 
@@ -226,11 +221,6 @@ We now move onto a new research design: instrumental variables (IV). We introduc
 - [Seminar Questions](seminars/seminar3/seminar3_questions.pdf)
 - [Seminar Code](seminars/seminar3/seminar3_iv.Rmd)
 
-##### Problem Set 3
-- [Problem Set](psets/pset3/pset3.pdf)
-- [Data](psets/pset3/foreign_aid_human_rights_and_democracy_promotion.dta)
-- [Solution Set](psets/pset3/pset3_solutions.pdf)
-
 #### 8. Instrumental Variables 2
 
 Extending our investigation of IV designs, we focus on the interpertation and estimation of continuous IV settings, shift-share (Bartik) instruments, examiner designs, and recentered IV.
@@ -269,11 +259,6 @@ We move to the next core research design, regression discontinuity (RD), conside
 - [Seminar Paper](seminars/seminar4/seminar4_paper.pdf) 
 - [Seminar Questions](seminars/seminar4/seminar4_questions.pdf)
 - [Seminar Code](seminars/seminar4/seminar4_rdd.Rmd)
-
-##### Problem Set 4
-- [Problem Set](psets/pset4/pset4.pdf)
-- [Data](psets/pset4/pmgsy_working_aer_mainsample_reduced.dta)
-- [Solution Set](psets/pset4/pset4_solutions.pdf)
 
 #### 10. Difference-in-Differences 1
 
@@ -317,11 +302,6 @@ We continue our exploration of DiD, broadening our focus to cases with more than
 - [Seminar Code](seminars/seminar5/seminar5_did.Rmd)
 - [Seminar Paper](seminars/seminar5/seminar5_paper.pdf) 
 - [Seminar Questions](seminars/seminar5/seminar5_questions.pdf)
-
-##### Problem Set 5
-- [Problem Set](psets/pset5/pset5.pdf)
-- [Data](psets/pset5/Norway-MSD.dta)
-- [Solution Set](psets/pset5/pset5_solutions.pdf)
 
 
 [COURSE ENDS]
