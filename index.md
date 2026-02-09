@@ -162,10 +162,11 @@ We consider the three most frequently seen estimation strategies for selection-o
 
 ##### Seminar: Selection on Observables
 
-- [Seminar Code](seminars/seminar2/seminar2_soo.Rmd)
-- [Seminar Paper 1](seminars/seminar2/seminar2_paper1.pdf)
-- [Seminar Paper 2 (response to paper 1)](seminars/seminar2/seminar2_paper2.pdf) 
-- [Seminar Questions](seminars/seminar2/seminar2_questions.pdf)
+- [Seminar Paper 1](https://github.com/LSE-MY457/course_materials/blob/main/seminars/seminar2/seminar2_paper1.pdf)
+- [Seminar Paper 2 (response to paper 1)](https://github.com/LSE-MY457/course_materials/blob/main/seminars/seminar2/seminar2_paper2.pdf)
+- [Seminar Questions](https://github.com/LSE-MY457/course_materials/blob/main/seminars/seminar1/seminar1_questions.pdf)
+- [Code Demo Worksheet](#)
+- [Code Demo Video](#)
 
 ##### Readings
 * MHE: Sections 3.2 and 3.3
