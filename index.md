@@ -158,7 +158,7 @@ We consider the three most frequently seen estimation strategies for selection-o
 
 ##### Lecture
 
-- [Lecture Slides - Selection on Observables 2](slides/L4_soo_part2.pdf)
+- [Lecture Slides - Selection on Observables 2](https://github.com/LSE-MY457/course_materials/blob/main/slides/L4_soo_part2.pdf)
 
 ##### Seminar: Selection on Observables
 
