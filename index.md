@@ -165,8 +165,8 @@ We consider the three most frequently seen estimation strategies for selection-o
 - [Seminar Paper 1](https://github.com/LSE-MY457/course_materials/blob/main/seminars/seminar2/seminar2_paper1.pdf)
 - [Seminar Paper 2 (response to paper 1)](https://github.com/LSE-MY457/course_materials/blob/main/seminars/seminar2/seminar2_paper2.pdf)
 - [Seminar Questions](https://github.com/LSE-MY457/course_materials/blob/main/seminars/seminar2/seminar2_questions.pdf)
-- [Code Demo Worksheet](#)
-- [Code Demo Video](#)
+- [Code Demo Worksheet](https://github.com/LSE-MY457/course_materials/blob/main/code_demos/code_demo_soo.Rmd)
+- [Code Demo Video](https://youtu.be/EjmDF_7NnFs?si=hLY9PrkKNduGHl-w)
 
 ##### Readings
 * MHE: Sections 3.2 and 3.3
