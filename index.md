@@ -186,7 +186,7 @@ We consider what happens if we are willing to weaken the assumptions underpinnin
 
 ##### Lecture
 
-- [Lecture Slides - Selection on Observables 3](slides/L5_soo_part3.pdf)
+- [Lecture Slides - Selection on Observables 3](https://github.com/LSE-MY457/course_materials/blob/main/slides/L5_soo_part3.pdf)
 
 ##### Readings
 * [Manski, C.F., 1990. Nonparametric bounds on treatment effects. The American Economic Review, 80(2), pp.319-323.](https://www.jstor.org/stable/2006592) (very technical but worth reading, even if only for the intuition.)
