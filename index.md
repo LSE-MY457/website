@@ -204,7 +204,7 @@ We consider what happens if we are willing to weaken the assumptions underpinnin
 We now move onto a new research design: instrumental variables (IV). We introduce the basic architecture of modern IV, learn about the various assumptions needed to admit a causal interpretation, and explore some of the weaknesses and fragilities of the approach.
 
 ##### Lecture
-- [Lecture Slides - Instrumental Variables 1](slides/L7_IV_part1.pdf)
+- [Lecture Slides - Instrumental Variables 1](https://github.com/LSE-MY457/course_materials/blob/main/slides/L7_IV_part1.pdf)
 
 ##### Readings
 * TE: Chapter 19
