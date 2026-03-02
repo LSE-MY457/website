@@ -220,8 +220,8 @@ We now move onto a new research design: instrumental variables (IV). We introduc
 
 - [Seminar Paper](https://github.com/LSE-MY457/course_materials/blob/main/seminars/seminar3/seminar3_paper.pdf) 
 - [Seminar Questions](x)
-- [Code Demo Worksheet](x)
-- [Code Demo Video](x)
+- [Code Demo Worksheet](https://github.com/LSE-MY457/course_materials/blob/main/code_demos/code_demo_iv.Rmd)
+- [Code Demo Video](https://youtu.be/oE12F10guUY)
 
 
 #### 8. Instrumental Variables 2
