@@ -229,7 +229,7 @@ We now move onto a new research design: instrumental variables (IV). We introduc
 Extending our investigation of IV designs, we focus on the interpertation and estimation of continuous IV settings, shift-share (Bartik) instruments, examiner designs, and recentered IV.
 
 ##### Lecture
-- [Lecture Slides - Instrumental Variables 2](slides/L8_IV_part2.pdf)
+- [Lecture Slides - Instrumental Variables 2](https://github.com/LSE-MY457/course_materials/blob/main/slides/L8_IV_part2.pdf)
 
 ##### Readings
 * [Cunningham, S. (2021). Causal inference: The mixtape. Yale university press. Section 7.8.](https://mixtape.scunning.com/07-instrumental_variables)
