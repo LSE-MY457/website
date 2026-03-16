@@ -243,7 +243,7 @@ Extending our investigation of IV designs, we focus on the interpertation and es
 We move to the next core research design, regression discontinuity (RD), considering modern approaches to both sharp and fuzzy RD settings.  We briefly consider the regression kink (RK) design.
 
 ##### Lecture
-- [Lecture Slides - Regression Discontinuity](slides/L9_RDD.pdf)
+- [Lecture Slides - Regression Discontinuity](https://github.com/LSE-MY457/course_materials/blob/main/slides/L9_RDD.pdf)
 
 ##### Readings
 * MHE: Chapter 6
