@@ -260,7 +260,7 @@ We move to the next core research design, regression discontinuity (RD), conside
 ##### Seminar: Regression Discontinuity
 
 - [Seminar Paper](https://github.com/LSE-MY457/course_materials/blob/main/seminars/seminar4/seminar4_paper.pdf) 
-- [Seminar Questions](x)
+- [Seminar Questions](https://github.com/LSE-MY457/course_materials/blob/main/seminars/seminar4/seminar4_questions.pdf)
 - [Code Demo Worksheet](x)
 - [Code Demo Video](x)
 
