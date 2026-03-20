@@ -261,7 +261,7 @@ We move to the next core research design, regression discontinuity (RD), conside
 
 - [Seminar Paper](https://github.com/LSE-MY457/course_materials/blob/main/seminars/seminar4/seminar4_paper.pdf) 
 - [Seminar Questions](https://github.com/LSE-MY457/course_materials/blob/main/seminars/seminar4/seminar4_questions.pdf)
-- [Code Demo Worksheet](x)
+- [Code Demo Worksheet](https://github.com/LSE-MY457/course_materials/blob/main/code_demos/code_demo_rdd.Rmd)
 - [Code Demo Video](x)
 
 #### 10. Difference-in-Differences 1
