@@ -270,7 +270,7 @@ We now introduce one of the most popular research designs for applied causal inf
 
 ##### Lecture
 
-- [Lecture Slides - Difference-in-Differences 1](slides/L10_DinD_part1.pdf)
+- [Lecture Slides - Difference-in-Differences 1](https://github.com/LSE-MY457/course_materials/blob/main/slides/L10_DinD_part1.pdf)
 
 ##### Readings
 * MHE: Section 5.2
