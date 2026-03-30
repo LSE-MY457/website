@@ -287,7 +287,7 @@ We continue our exploration of DiD, broadening our focus to cases with more than
 
 ##### Lecture
 
-- [Lecture Slides - Difference-in-Differences 2](slides/L11_DinD_part2.pdf)
+- [Lecture Slides - Difference-in-Differences 2](https://github.com/LSE-MY457/course_materials/blob/main/slides/L11_DinD_part2.pdf)
 
 ##### Readings
 * [Baker, A. C., Larcker, D. F., & Wang, C. C. (2022). How much should we trust staggered difference-in-differences estimates?. Journal of Financial Economics, 144(2), 370-395.](https://www.sciencedirect.com/science/article/pii/S0304405X22000204) (has some quite accessible discussions)
