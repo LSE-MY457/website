@@ -304,7 +304,7 @@ We continue our exploration of DiD, broadening our focus to cases with more than
 ##### Seminar: Difference-in-Differences
 
 - [Seminar Paper](https://github.com/LSE-MY457/course_materials/blob/main/seminars/seminar5/seminar5_paper.pdf) 
-- [Seminar Questions](x)
+- [Seminar Questions](https://github.com/LSE-MY457/course_materials/blob/main/seminars/seminar5/seminar5_questions.pdf)
 - [Code Demo Worksheet](x)
 - [Code Demo Video](x)
 
